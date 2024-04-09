@@ -1,0 +1,13 @@
+{
+  "firstName": "James Sirius",
+  "lastName": "Potter",
+  "email": "jamessiriuspotter@hogwarts.com",
+  "id": 21,
+  "skills": [
+    "Charms",
+    "Defense against Dark Arts",
+    "Divination",
+    "Herbology",
+    "Transfiguration"
+  ]
+}
